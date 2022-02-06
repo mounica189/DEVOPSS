@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1644158354,,"wq"
+|2,0,1644163454,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,60 @@
 # Registers:
 
 # File marks:
-'0  1  38  ~/mouni1
-|4,48,1,38,1644158354,"~/mouni1"
+'0  2  16  ~/first.pem
+|4,48,2,16,1644163454,"~/first.pem"
+'1  1  6  ~/mouni3
+|4,49,1,6,1644161460,"~/mouni3"
+'2  1  4  ~/mouni3
+|4,50,1,4,1644161361,"~/mouni3"
+'3  1  38  ~/mouni1
+|4,51,1,38,1644158354,"~/mouni1"
 
 # Jumplist (newest first):
+-'  2  16  ~/first.pem
+|4,39,2,16,1644163454,"~/first.pem"
+-'  1  0  ~/first.pem
+|4,39,1,0,1644163434,"~/first.pem"
+-'  1  6  ~/mouni3
+|4,39,1,6,1644161460,"~/mouni3"
+-'  1  6  ~/mouni3
+|4,39,1,6,1644161460,"~/mouni3"
+-'  1  4  ~/mouni3
+|4,39,1,4,1644161361,"~/mouni3"
+-'  1  4  ~/mouni3
+|4,39,1,4,1644161361,"~/mouni3"
+-'  1  38  ~/mouni1
+|4,39,1,38,1644158354,"~/mouni1"
+-'  1  38  ~/mouni1
+|4,39,1,38,1644158354,"~/mouni1"
+-'  1  38  ~/mouni1
+|4,39,1,38,1644158354,"~/mouni1"
+-'  1  38  ~/mouni1
+|4,39,1,38,1644158354,"~/mouni1"
+-'  1  38  ~/mouni1
+|4,39,1,38,1644158354,"~/mouni1"
+-'  1  38  ~/mouni1
+|4,39,1,38,1644158354,"~/mouni1"
+-'  1  38  ~/mouni1
+|4,39,1,38,1644158354,"~/mouni1"
 -'  1  38  ~/mouni1
 |4,39,1,38,1644158354,"~/mouni1"
 
 # History of marks within files (newest to oldest):
+
+> ~/first.pem
+	*	1644163450	0
+	"	2	16
+	^	2	17
+	.	2	16
+	+	2	16
+
+> ~/mouni3
+	*	1644161457	0
+	"	1	6
+	^	1	8
+	.	1	6
+	+	1	6
 
 > ~/mouni1
 	*	1644158343	0
