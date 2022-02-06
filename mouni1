@@ -1,6 +1,6 @@
-hey mouni congrats on creating the file
+hey mouni congrats on creating the filprinte
 #include <stdio.h>
 main ()
 {
-hello how are you?
+println("hello how are you?\n)
 }
